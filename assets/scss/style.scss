@@ -1252,7 +1252,7 @@ section {
 
     #contact {
       background-color: #fff;
-      border: 2px solid $primary;
+      border: 2px solid $secondary;
       border-radius: $border-radius-base;
       padding: 40px;
 
@@ -1300,7 +1300,7 @@ section {
       button {
         font-size: 13px;
         color: #fff;
-        background-color: $primary;
+        background-color: $secondary;
         padding: 12px 30px;
         display: inline-block;
         border-radius: 22px;
@@ -1317,7 +1317,7 @@ section {
     }
 
     .right-info {
-      background-color: $primary;
+      background-color: $secondary;
       border-radius: $border-radius-base;
       padding: 40px;
 
